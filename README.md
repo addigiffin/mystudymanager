@@ -1,1 +1,2 @@
-# COSC455
+# mystudymanager
+
